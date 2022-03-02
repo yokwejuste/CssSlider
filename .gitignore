@@ -1,0 +1,13 @@
+.history/
+.idea/
+.vscode/
+.vscode-test/
+.vscode-test-results/
+.vscode-test-state/
+.vscode-test-tmp/
+.vscode-tests/
+.vscode-tests-tmp/
+.vscode-*-*/
+.vscode-*-*-*-*-*/
+.vscode-*-*-*-*-*-*/
+.vscode-*-*-*-*-*-*-*/
